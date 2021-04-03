@@ -1,0 +1,10 @@
+*.iml
+*.pyc
+*.swp
+*.swo
+*~
+
+**/.idea
+**/venv
+**/.ipynb_checkpoints
+**/data
